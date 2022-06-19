@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza but you can call me <span style="color:#4146d1">hakermad</span></h1>
+<h1 align="center">Hi 👋, I'm Hamza but you can call me <span style="color: #4146d1">hakermad</span></h1>
 <h3 align="center">I'm a passionate student in computer programming from Belgium 🇧🇪</h3>
 
 ## About
