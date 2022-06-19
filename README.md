@@ -15,9 +15,9 @@
 -------------------
 
 ## Contact
-<a href="[https://www.instagram.com/LachlanDev/](https://www.linkedin.com/in/hamza-kermadi-915488177/)">![Linkedin](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahad-liban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahad-liban/" height="30" width="40" /></a>
+</p>
 -------------------
 <!---
 kermadihamza/kermadihamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
