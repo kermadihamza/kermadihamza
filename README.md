@@ -4,7 +4,7 @@
 ## About
 - 🔭 I’m student of 19 school [42 network](https://www.s19.be/)
 
-- 🌱 I’m currently learning **C, Python,**
+- 🌱 I’m currently learning **C, Python**
 
 - 👯 I’m looking to collaborate on **any project , just like to improve myself**
 
